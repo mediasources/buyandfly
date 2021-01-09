@@ -82,6 +82,7 @@ h3 {
   border-radius: inherit;
   color: inherit;
   background-color: #1e3c53;
+  border-radius: 10px;
 }
 
 .wrapper__search .input input:focus~.label {

@@ -14,7 +14,7 @@ const otherCheapTickets = document.getElementById('other-cheap-tickets');
 const citiesAPI = 'database/cities.json';
 const proxy = 'https://cors-anywhere.herokuapp.com/';
 const API_KEY = 'c76894f35a99622a7c383122ab5ed5b2';
-const calendar = 'http://min-prices.aviasales.ru/calendar_preload';
+const calendar = 'https://min-prices.aviasales.ru/calendar_preload';
 const MAX_COUNT = 10;
 
 let city = [];
